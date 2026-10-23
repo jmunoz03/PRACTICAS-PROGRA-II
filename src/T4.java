@@ -1,3 +1,15 @@
+/*
+SYNTAXIS METODO
+static  int  maximo  (int a, int b)  { ... return ...; }
+   │      │     │         │              │
+   │      │     │         │              └── cuerpo: lo que hace
+   │      │     │         └── parámetros: lo que recibe
+   │      │     └── nombre del método
+   │      └── tipo que DEVUELVE (int, boolean, String...)
+   └── static: para poder llamarlo desde el main
+*/
+
+
 public class T4 {
 
     public static void main(String[] args) {

@@ -1,4 +1,9 @@
 /*
+-this.titulo  =  titulo;
+   │              │
+   │              └── lo que me pasaron (el parámetro)
+   └── dónde lo guardo (el dato de la canción)
+   
 - Crear (llama al constructor)
 - Cancion c = new Cancion("Imagine", 183);
 - 
